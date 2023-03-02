@@ -1,0 +1,12 @@
+
+
+.container{
+    display: flex;
+    font-size: large;
+    color: rgb(255, 255, 255);
+    justify-content: space-evenly;
+    border: 2px solid #363636;
+    border-radius: 15px;
+    background-color: #363636;
+}
+
